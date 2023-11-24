@@ -1,0 +1,2 @@
+GUC - General University Courses: include the University-Wide Courses like
+TMC and EDS and the NUC courses like GST

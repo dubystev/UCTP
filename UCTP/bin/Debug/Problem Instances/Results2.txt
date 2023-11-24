@@ -1,0 +1,13 @@
+Iteration: 1  HCV: 1  SCV: 317
+Iteration: 2  HCV: 0  SCV: 141
+Iteration: 3  HCV: 0  SCV: 134
+Iteration: 4  HCV: 0  SCV: 119
+Iteration: 15  HCV: 0  SCV: 107
+Iteration: 17  HCV: 0  SCV: 99
+Iteration: 19  HCV: 0  SCV: 97
+Iteration: 26  HCV: 0  SCV: 78
+Iteration: 29  HCV: 0  SCV: 73
+Iteration: 35  HCV: 0  SCV: 68
+Iteration: 38  HCV: 0  SCV: 62
+Iteration: 47  HCV: 0  SCV: 53
+Iterations: 67

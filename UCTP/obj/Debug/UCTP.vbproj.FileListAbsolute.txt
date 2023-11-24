@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\UCTP\bin\Debug\UCTP.exe.config
+C:\Users\hp\source\repos\UCTP\bin\Debug\UCTP.exe
+C:\Users\hp\source\repos\UCTP\bin\Debug\UCTP.pdb
+C:\Users\hp\source\repos\UCTP\bin\Debug\UCTP.xml
+C:\Users\hp\source\repos\UCTP\obj\Debug\UCTP.vbprojAssemblyReference.cache
+C:\Users\hp\source\repos\UCTP\obj\Debug\UCTP.Resources.resources
+C:\Users\hp\source\repos\UCTP\obj\Debug\UCTP.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\UCTP\obj\Debug\UCTP.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UCTP\obj\Debug\UCTP.exe
+C:\Users\hp\source\repos\UCTP\obj\Debug\UCTP.xml
+C:\Users\hp\source\repos\UCTP\obj\Debug\UCTP.pdb
